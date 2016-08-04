@@ -1,4 +1,4 @@
-# codealist-magento2-unexisting-cronjobs-fix
+# Prevent "Undefined index: jobs" in Magento 2
 Extension to prevent the error that appears when some cronjobs doesn't accomplish the proper parameters.
 The error message is the following:
 
